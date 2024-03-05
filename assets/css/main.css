@@ -414,7 +414,7 @@ input[type="color"] {
   -webkit-user-select: none;
   -moz-user-select: none;
   user-select: none;
-  background: var(--tg-theme-primary) none repeat scroll 0 0;
+  background: #ff3366;
   border: medium none;
   border-radius: 0;
   color: var(--tg-common-color-white);
@@ -6285,7 +6285,7 @@ blockquote .blockquote-cite .info span {
   background: transparent;
 }
 .newsletter__form-grp::before {
-  content: "\f2b6";
+  /* content: "\f2b6"; */
   position: absolute;
   left: 0;
   top: 0;

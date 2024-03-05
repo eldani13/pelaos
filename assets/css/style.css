@@ -1,3 +1,4 @@
+
 .home {
     display: flex;
     justify-content: center;
@@ -5,10 +6,50 @@
     gap: 5px;
 }
 
-.text {
+/* .text {
     background-color: #ff3366;
-}
+} */
 
 .switcher__btn {
     display: flex;
+}
+
+.newsletter__form-grp {
+    display: flex;
+    flex-direction: column;
+}
+
+.correo{
+    display: flex;
+}
+
+button.btn {
+    color: #fff;
+    background-color: #ff3366;
+    border: none;
+}
+
+
+button.text{
+    padding: 10px;
+}
+
+.redes {
+    display: flex;
+    justify-content: end;
+}
+
+.red {
+    display: flex;
+    gap: 10px;
+}
+
+a.btn {
+    background-color: #ff3366;
+    color: #fff;
+    border: none;
+}
+
+a.btn:hover{
+    color: #fff;
 }
