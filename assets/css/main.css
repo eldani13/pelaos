@@ -452,6 +452,7 @@ input[type="color"] {
   top: 110%;
   left: 50%;
   background: var(--tg-theme-secondary);
+  color: var(--tg-common-color-white);
   -webkit-transform: translateX(-50%);
   -moz-transform: translateX(-50%);
   -ms-transform: translateX(-50%);
