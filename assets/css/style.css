@@ -1,0 +1,14 @@
+.home {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+}
+
+.text {
+    background-color: #ff3366;
+}
+
+.switcher__btn {
+    display: flex;
+}
