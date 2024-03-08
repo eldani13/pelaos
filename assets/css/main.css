@@ -1789,7 +1789,8 @@ input[type="color"] {
   display: inline-block;
 }
 .logo a img {
-  max-width: 109px;
+  /* max-width: 500px; */
+  padding-right: 11rem;
 }
 .logo a.logo-light {
   display: none;

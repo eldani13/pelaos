@@ -39,9 +39,9 @@ i[class*="flaticon-"] {
 .flaticon-tick:before {
     content: "\f106";
 }
-.flaticon-addition:before {
+/* .flaticon-addition:before {
     content: "\f107";
-}
+} */
 .flaticon-remove:before {
     content: "\f108";
 }
